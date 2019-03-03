@@ -22,3 +22,14 @@ After graduating from high school in 2015 I entered Belarusian State University 
 #### Software
 -   MS Office 2007-2013
 -   ERwin Data Modeler
+
+## :books: Education
+- Gymnasium №17, Minsk graduate of 2013.
+- Secondary school № 4, Minsk graduate of 2015.
+- Belarusian State University of Informatics and Radioelectronics anticipated graduation date: july 2019.
+
+## :page_facing_up: Code examples
+- [Quadratic equation](https://github.com/PoiSkuLL/quadratic-equation "Quadratic equation")
+- [Money Exchange](https://github.com/PoiSkuLL/Money-Exchange "Money Exchange")
+- [Brackets](https://github.com/PoiSkuLL/additional_5 "Brackets")
+- [Zeros](https://github.com/PoiSkuLL/zeros "Zeros")
